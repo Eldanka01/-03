@@ -1,0 +1,166 @@
+*{
+    margin: 0 0 0 0;
+}
+
+.header1{
+    width: 100%;
+    height: 90px;
+    background-color: #30302f;
+    display: flex;
+    color: white;
+}
+
+.header1 img{
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+
+.nav{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav div{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    display: flex;
+}
+
+.nav hr{
+    color: white;
+    height: 25px;
+    margin-left: 20px;
+}
+
+.abc1{
+    background-color: #f79c5c;
+    width: 100%;
+    height: 600px;
+}
+
+.div1{
+    display: flex;
+    margin-left: 100px;
+}
+
+.div1 img{
+    width: 1000px;
+    height: 400px;
+    margin-top: 120px;
+    margin-left: 250px;
+}
+
+.zav{
+    width: 50%;
+    padding-top: 150px;
+    padding-left: 80px;
+    
+}
+
+.zav button{
+    background-color: #823600;
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.abc2{
+    background-color: #403e3c;
+    width: 100%;
+    height: 600px;
+}
+
+.abc2 p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 100px;
+    color: white;
+}
+
+.pre{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.pre img{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    background-color: #c20098;
+    text-align: center;
+}
+
+.abc3{
+    background-color: #f79c5c;
+    width: 100%;
+    height: 600px;
+    padding-top: -50px;
+    padding-bottom: 100px;
+}
+
+.abc3 p{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 100px;
+}
+
+.mblock{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+
+
+
+.a1{
+    width: 250px;
+    height: 200px;
+}
+
+.a2{
+    width: 250px;
+    height: 50px;
+    background-color: #a10207;
+    padding-top: 25px;
+    color: white;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-top: -5px;
+}
+
+.footer{
+    background-color: #BBFFF3;
+    width: 100%;
+    height: 400px;
+}
+
+.in{
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-around;
+}
+
+.in div{
+    font-size: 20px;
+}
+
+.in img{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
